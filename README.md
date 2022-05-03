@@ -18,7 +18,7 @@ I am currently pursuing BTech in CSE at MIT, Manipal. I am a robotics enthusiast
 <img align="left" alt="" width="40px" src="https://www.pngkey.com/png/full/221-2216011_ros-gazebo-logo.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="" width="200px" src="https://i.pinimg.com/originals/f5/6b/60/f56b60f21d1afcdd41278048afcc75bf.png" />
+<img align="left" alt="" width="50px" src="https://i.ytimg.com/an/XD7HBFlIFMM/73075643-6561-4a39-a0e0-f9c3e426a06a_mq.jpg?v=5cb4d821" />
 <br>
 <br>
 
