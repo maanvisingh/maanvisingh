@@ -24,8 +24,8 @@ I am currently pursuing BTech in CSE at MIT, Manipal. I am a robotics enthusiast
 
 ### Connect with me:
 <p align="left"> 
-<a href="https://www.linkedin.com/in/maanvi-singh-b163741a5/"><img alt="linkedin" width="5%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a> 
-<a href="https://www.instagram.com/maanvisingh_/"><img alt="instagram" width="5%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/></a> 
-<a href="mailto: singhmaanvi3@gmail.com"><img alt="gmail" width="5%" style="padding:5px" src="https://img.icons8.com/nolan/512/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/maanvi-singh-b163741a5/"><img alt="linkedin" width="6%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a> 
+<a href="https://www.instagram.com/maanvisingh_/"><img alt="instagram" width="6%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/></a> 
+<a href="mailto: singhmaanvi3@gmail.com"><img alt="gmail" width="6%" style="padding:5px" src="https://img.icons8.com/nolan/512/gmail.png"/></a>
  </p>
  
