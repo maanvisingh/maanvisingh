@@ -5,7 +5,7 @@ I am currently pursuing BTech in CSE at MIT, Manipal. I am a robotics enthusiast
 - 🌱 At present, I'm learning about Path Planning and Navigation and working on a [ROS Bot](https://github.com/maanvisingh/ROS_Bot) along with a few other [Mini Projects](https://github.com/maanvisingh/Mini_Projects).
 - 🤔 I’m looking for help with internships in the field of Robotics.   
 - 😄 Pronouns: She/Her
-- 🎵 Fun fact: I can play guitar and tabla.
+- 🎵 Fun fact: I play guitar and tabla.
  
  ### Languages and Tools:
 <img align="left" alt="" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
